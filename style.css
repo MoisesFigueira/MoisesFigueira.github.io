@@ -1,0 +1,21 @@
+* {
+    text-decoration:none;
+    scroll-behavior: smooth;
+}
+
+h1 {
+ font-weight: bolder;   
+ color:black;
+}
+ul {
+    font-style: italic;
+}
+
+.body {
+    background: url(my1.jpg);
+    background-size: cover;   
+}
+
+a {
+    color: black;
+}
